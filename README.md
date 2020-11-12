@@ -14,7 +14,7 @@ Push the Notebook to your Github repository and submit a link to the notebook on
 
 ​Github link to week1 Capstone :- https://github.com/gopireddyssreddy/IBM-Data-Science-Capstone/blob/main/Week1_Capstone.ipynb
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 WEEK - 3
 For this assignment, you will be required to explore and cluster the neighborhoods in Toronto.
 
