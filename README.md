@@ -63,4 +63,4 @@ to add enough Markdown cells to explain what you decided to do and to report any
 to generate maps to visualize your neighborhoods and how they cluster together.
 Once you are happy with your analysis, submit a link to the new Notebook on your Github repository. (3 marks)
 
-Week 3 Solution link:- 
+Week 3 Solution link:- https://github.com/gopireddyssreddy/IBM-Data-Science-Capstone/blob/main/Week3%20Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto.ipynb
